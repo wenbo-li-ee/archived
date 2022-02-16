@@ -29,9 +29,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: https://twitter.com/LENBO59418572
-    github: https://github.com/wenbo-li-ee
-    weibo: https://weibo.com/u/5323971642
+    twitter: LENBO59418572
+    github: wenbo-li-ee
+    #weibo: https://weibo.com/u/5323971642
     #linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
