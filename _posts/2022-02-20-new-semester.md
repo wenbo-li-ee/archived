@@ -2,7 +2,7 @@
 
 layout: post
 title:  "New Semester Begins!"
-date:   2022-02-20 16:55 +0635
+date:   2022-02-20 16:03:36 +0530
 categories: Diary
 
 ---
