@@ -2,7 +2,7 @@
 layout: post
 title:  "Review of the Last Week"
 date:   2022-03-04 22:32:00 +0800
-categories: Weekly Diary, Diary
+categories: Weekly—Diary Diary
 
 
 ---
@@ -11,7 +11,7 @@ categories: Weekly Diary, Diary
 
 
 
-# Weekly Diary
+
 
 `2022 Spring 2nd Week`
 
