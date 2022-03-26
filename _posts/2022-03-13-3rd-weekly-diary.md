@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review of the Last Week"
+title:  "3rd Weekly Diary"
 date:   2022-03-13 22:30:00 +0800
 categories: Weekly—Diary Diary
 
@@ -10,7 +10,7 @@ categories: Weekly—Diary Diary
 
 
 
-# 3rd Weekly Diary 
+
 
 `2022 Spring 3rd week `
 怎么说呢，感觉这周表现还是不尽人意，跟上周的状态差不多———睡得晚，上课很难集中注意力，感觉很大的原因就是手机，或许可以再把时间限额设置起来了。
