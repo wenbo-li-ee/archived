@@ -11,6 +11,6 @@ categories: Experience
 
 
 
-<center>__As the title suggests __</center>
+<center> __As the title suggests __ </center>
 
-![blood on the pineapple](assets\pictures\ulcer\blood_on_pineapple.JPG)
+![blood on the pineapple](\assets\pictures\ulcer\blood_on_pineapple.JPG)
